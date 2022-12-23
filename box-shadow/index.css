@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.box {
+  width: 250px;
+  height: 250px;
+  margin: 65px;
+  background-color: teal;
+  box-shadow: 5px 5px 50px red;
+}
